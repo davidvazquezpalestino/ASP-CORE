@@ -1,0 +1,10 @@
+﻿.usuario {
+    color: blue;
+    width: 50px;
+   
+}
+.tipoLetra {
+    font-size: medium;
+    font-family:cursive,verdana;
+
+}

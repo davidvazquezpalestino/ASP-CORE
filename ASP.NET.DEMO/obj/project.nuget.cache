@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lPHyt0cdaj7Ea9uYzFnKaVdmKhcE0hNyu/dlzGdk+5DMCwDPYiGcW/s66UnYyctIT2LgT03+MeCyvWyrVOGZOQ==",
+  "success": true,
+  "projectFilePath": "D:\\TI\\ASP.NET.DEMO\\ASP.NET.DEMO\\ASP.NET.DEMO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DAVID\\.nuget\\packages\\jquery\\3.6.0\\jquery.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
